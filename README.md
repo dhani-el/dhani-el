@@ -1,3 +1,4 @@
+<img src = "https://www.pinterest.com/pin/609111918361530517/" alt = "coding image " align = "right"/>
 <h1 align="center">Hi 👋, I'm daniel ukuhor</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <p align="left"> <a href="https://twitter.com/coderosion" target="blank"><img src="https://img.shields.io/twitter/follow/coderosion?logo=twitter&style=for-the-badge" alt="coderosion" /></a> </p>
