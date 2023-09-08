@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm daniel ukuhor</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img src="https://assets.pinterest.com/ext/embed.html?id=921830617495544708" height="634" width="600"  />
-
 <p align="left"> <a href="https://twitter.com/coderosion" target="blank"><img src="https://img.shields.io/twitter/follow/coderosion?logo=twitter&style=for-the-badge" alt="coderosion" /></a> </p>
 
 - 🌱 I’m currently learning **React Native**
