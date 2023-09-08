@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 <p align="left"> <a href="https://twitter.com/coderosionjs_" target="blank"><img src="https://img.shields.io/twitter/follow/coderosion?logo=twitter&style=for-the-badge" alt="coderosion" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning about **Micro Frontends and Federated Modules**
 
 - 👨‍💻 All of my projects are available at [https://coderosion.netlify.app](https://coderosion.netlify.app)
 
