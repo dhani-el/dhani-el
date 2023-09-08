@@ -1,7 +1,7 @@
 <img src = "https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f" alt = "coding image " width = "70%" align = "center" />
 <h1 align="center">Hi 👋, I'm daniel ukuhor</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<p align="left"> <a href="https://twitter.com/coderosion" target="blank"><img src="https://img.shields.io/twitter/follow/coderosion?logo=twitter&style=for-the-badge" alt="coderosion" /></a> </p>
+<p align="left"> <a href="https://twitter.com/coderosionjs_" target="blank"><img src="https://img.shields.io/twitter/follow/coderosion?logo=twitter&style=for-the-badge" alt="coderosion" /></a> </p>
 
 - 🌱 I’m currently learning **React Native**
 
