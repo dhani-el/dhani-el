@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 <p align="left"> <a href="https://twitter.com/coderosionjs_" target="blank"><img src="https://img.shields.io/twitter/follow/coderosion?logo=twitter&style=for-the-badge" alt="coderosion" /></a> </p>
 
-- 🌱 I’m currently learning about **Micro Frontends and Federated Modules**
+- 🌱 I’m currently learning about **Progressive Web Apps**
 
 - 👨‍💻 All of my projects are available at [https://coderosion.netlify.app](https://coderosion.netlify.app)
 
@@ -26,6 +26,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhani-el&show_icons=true&locale=en&layout=compact" alt="dhani-el" />    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhani-el&" alt="dhani-el" />   </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhani-el" alt="dhani-el" /></a> </p>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhani-el&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
 
 
 <h3 align="left">Support:</h3>
